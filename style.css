@@ -25,3 +25,7 @@ nav ul li{
   font-weight: 500;
   cursor: pointer;
 }
+nav .logo{
+  width: 220px;
+  cursor: pointer;
+}
