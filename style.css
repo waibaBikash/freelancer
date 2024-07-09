@@ -40,3 +40,7 @@ nav .logo{
   border-radius: 40px;
   cursor: pointer;
 }
+.nav-btn img{
+  width: 16px;
+  margin-left: 8px;
+}
