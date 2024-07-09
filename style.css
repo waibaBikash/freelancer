@@ -141,6 +141,9 @@ animation text
     background-size: 100%;
   }
 }
+.menu-icon{
+  display: none;
+}
 /* 
 Media Queries for navbar */
 @media only screen and (max-width: 600px) {
@@ -162,5 +165,9 @@ Media Queries for navbar */
   nav ul li{
     margin: 10px;
     font-size: 14px;
+  }
+  .menu-icon{
+    display: block;
+    width: 30px;
   }
 }
