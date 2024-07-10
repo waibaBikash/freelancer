@@ -5,7 +5,6 @@ function toggleMenu(){
   menuLinks.classList.toggle('show-menu');
 }
 
-
 window.onscroll = function(){
    if(window.scrollY > 0){
     navbar.style.background = "#eefff9";
