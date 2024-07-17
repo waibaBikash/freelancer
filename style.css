@@ -143,6 +143,7 @@ animation text
 .menu-icon{
   display: none;
 }
+
 /* 
 Media Queries for navbar */
 @media only screen and (max-width: 600px) {
